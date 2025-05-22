@@ -1,4 +1,4 @@
-package com.ederrabelo.dslist.config;
+/* package com.ederrabelo.dslist.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
@@ -23,3 +23,4 @@ public class WebConfig {
 	}
 	
 }
+*/
